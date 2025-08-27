@@ -16,7 +16,7 @@ const Dictionary = () => {
   useEffect(() => {}, [meaning]);
   return (
     <div>
-      <h1>Dictionary</h1>
+      <h1>Dictionary App</h1>
       <div
         className="text-search"
         style={{ display: "flex", gap: "20px", justifyContent: "center" }}
